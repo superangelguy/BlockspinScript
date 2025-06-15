@@ -1,8 +1,3 @@
--- Blockspin Ultimate Script with Full Menu
--- Version: 1.0 - Professional Grade
--- Compatible with Solara and other executors
-
--- Wait for game to load
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
